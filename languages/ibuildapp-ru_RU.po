@@ -1,0 +1,230 @@
+# Copyright (C) 2013 iBuildApp
+# This file is distributed under the same license as the iBuildApp WordPress Plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: iBuildApp WordPress Plugin\n"
+"Report-Msgid-Bugs-To: http://ibuildapp.com\n"
+"POT-Creation-Date: 2013-10-23 10:33+0400\n"
+"PO-Revision-Date: 2013-10-23 10:33+0400\n"
+"Last-Translator: Andrey Chushikin\n"
+"Language-Team: iBuildApp <contacts@ibuildapp.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n%10==1 && n%100!=11) ? 3 : "
+"((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.php:15
+msgctxt "menu"
+msgid "Settings"
+msgstr ""
+
+#: admin.php:31
+msgctxt "menu"
+msgid "iBuildApp"
+msgstr ""
+
+#: admin.php:32
+msgctxt "menu"
+msgid "Home"
+msgstr ""
+
+#: admin.php:35
+msgctxt "menu"
+msgid "Create app"
+msgstr ""
+
+#: admin.php:38
+msgctxt "menu"
+msgid "Design"
+msgstr ""
+
+#: admin.php:39
+msgctxt "menu"
+msgid "Publish"
+msgstr ""
+
+#: admin.php:40
+msgctxt "menu"
+msgid "Notification"
+msgstr ""
+
+#: admin.php:41
+msgctxt "menu"
+msgid "Monetize"
+msgstr ""
+
+#: admin.php:42
+msgctxt "menu"
+msgid "Delete app"
+msgstr ""
+
+#: admin.php:45
+msgid "Settings"
+msgstr ""
+
+#: admin_app.php:66
+msgid "Create an App"
+msgstr ""
+
+#: admin_app.php:70
+msgid "iBuildApp WordPress Plugin has been successfully configured."
+msgstr ""
+
+#: admin_app.php:72
+msgid ""
+"Now your are ready to create an app!<br />Click on the button below to "
+"continue."
+msgstr ""
+
+#: admin_app.php:77 admin_conf.php:120
+msgid "Next"
+msgstr ""
+
+#: admin_app.php:81 admin_conf.php:131
+msgid "Let&#8217;s create your app by first running a site analysis."
+msgstr ""
+
+#: admin_app.php:130 admin_app.php:166 admin_app.php:305 admin_conf.php:62
+#: admin_conf.php:283 admin_conf.php:334 admin_conf.php:368 admin_conf.php:425
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: admin_app.php:199
+msgid "Create app"
+msgstr ""
+
+#: admin_app.php:321
+msgid "Delete the App"
+msgstr ""
+
+#: admin_app.php:324
+msgid ""
+"If you delete the app,<br />all content you&#8217;ve created before will be "
+"removed"
+msgstr ""
+
+#: admin_app.php:328
+msgid "Are you sure you want to delete the app?"
+msgstr ""
+
+#: admin_app.php:329
+msgid "Delete app"
+msgstr ""
+
+#: admin_conf.php:101
+msgid "Plugin Configuration"
+msgstr ""
+
+#: admin_conf.php:102
+msgid "Successful Plugin Configuration"
+msgstr ""
+
+#: admin_conf.php:107
+msgid "WordPress Plugin is linked to the iBuildApp account below:"
+msgstr ""
+
+#: admin_conf.php:108
+msgid "WordPress Plugin is now linked to the iBuildApp account below:"
+msgstr ""
+
+#: admin_conf.php:111
+msgid ""
+"To link your Plugin to another iBuildApp account,<br/>click on Reconfigure "
+"below."
+msgstr ""
+
+#: admin_conf.php:112
+msgid "Congrats!<br/>Your plugin has been successfully configured."
+msgstr ""
+
+#: admin_conf.php:116
+msgid "Reconfigure"
+msgstr ""
+
+#: admin_conf.php:127
+msgid "Note: Current app will be deleted once a plugin is reconfigured."
+msgstr ""
+
+#: admin_conf.php:135
+msgid "iBuildApp Wordpress Plugin"
+msgstr ""
+
+#: admin_conf.php:139
+msgid ""
+"iBuildApp WordPress plugin enables you to turn your WordPress site into an "
+"iPhone, Android and mobile web app in a matter of minutes."
+msgstr ""
+
+#: admin_conf.php:141
+msgid "Click on the button below to configure your iBuildApp Plugin."
+msgstr ""
+
+#: admin_conf.php:145
+msgid "Configure Plugin"
+msgstr ""
+
+#: admin_conf.php:149 admin_conf.php:187
+msgid "Installing iBuildApp Plugin"
+msgstr ""
+
+#: admin_conf.php:152 admin_conf.php:190
+msgid "this will be quick"
+msgstr ""
+
+#: admin_conf.php:156
+msgid "An error occured"
+msgstr ""
+
+#: admin_conf.php:160
+msgid "An error occured during Plugin configuration process:"
+msgstr ""
+
+#: admin_conf.php:163
+msgid "Please wait a little and try once more."
+msgstr ""
+
+#: admin_conf.php:167
+msgid "Retry"
+msgstr ""
+
+#: admin_conf.php:294
+msgid "iBuildApp server hadn&#8217;t responded"
+msgstr ""
+
+#: admin_conf.php:302
+msgid "Your plugin is outdated. Please update"
+msgstr ""
+
+#: admin_conf.php:305
+msgid "An unknown error occured"
+msgstr ""
+
+#: ibuildapp.php:44
+#, php-format
+msgid "iBuildApp WordPress plugin %s requires WordPress 3.0 or higher."
+msgstr ""
+
+#: ibuildapp.php:48
+#, php-format
+msgid ""
+"iBuildApp WordPress plugin %s doesn't support multisite WordPress "
+"installation."
+msgstr ""
+
+#: classes/IbuildappApiClient.class.php:51
+#: classes/IbuildappApiClient.class.php:60
+#: classes/IbuildappApiClient.class.php:71
+#, php-format
+msgid "An error occured during API call: %s"
+msgstr ""
+
+#: classes/IbuildappApiClient.class.php:72
+msgid "Bad response format"
+msgstr ""
