@@ -1,0 +1,39 @@
+/**
+ * iBuildApp:Plugin Wordpress
+ *
+ * @version 0.1.0
+ */
+.ibuildapp-just-configured { display: none; }
+
+.ibuildapp-content { position: relative; width: 480px; left: 50%; margin-left: -240px; margin-top: 70px; color: #8a8a8a; font-size: 14px; }
+.ibuildapp-content h1 { text-align: center; color: #494949; font-size: 24px; }
+.ibuildapp-content h2 { text-align: center; color: #8a8a8a; font-size: 24px; font-weight: normal; padding-top: 30px; }
+
+.ibuildapp-content .ibuildapp-infoblock {
+    background: #ffffff; border: 1px solid #aaaaaa; padding: 20px; margin: 20px auto; font-size: 14px; line-height: 1.5;
+    -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.75); -moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.75); box-shadow: 0px 0px 3px rgba(0,0,0,0.75);
+}
+.ibuildapp-content .ibuildapp-center { text-align: center; }
+.ibuildapp-content .ibuildapp-hint { color: #815ca6; }
+
+.ibuildapp-content .ibuildapp-btns { text-align: center; margin: 40px 0 0; }
+.ibuildapp-content .ibuildapp-btns .ibuildapp-btn_grey { min-width: 200px; }
+.ibuildapp-content .ibuildapp-btn_grey, .ibuildapp-content .ibuildapp-btn_grey:hover {
+    font-size: 24px; color: #f5f5f5; text-decoration: none;
+    background-color: #8a8a8a; display: inline-block; line-height: 44px; padding: 0 20px;
+    -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;
+}
+.ibuildapp-content .ibuildapp-btn_arrow {
+    background-image: url(./images/arrow.png); background-repeat: no-repeat; background-position: 95% center;
+}
+
+.ibuildapp-content .ibuildapp-loader { background: url(./images/loader.gif) no-repeat 0 0; width: 48px; height: 48px; text-align: center; margin: 20px auto 3px; }
+
+.ibuildapp-content .ibuildapp-inputblock {
+    display: inline-block; background-color: #eeeeee; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;
+    line-height: 34px; min-width: 300px; text-align: center; margin: 0 auto; color: #494949; font-size: 14px; font-weight: bold;
+}
+.ibuildapp-content .ibuildapp-ico-link {
+    background: url(./images/icon-link.png) no-repeat 0 0;
+    display: inline-block; width: 53px; height: 18px;
+}
