@@ -1,5 +1,5 @@
 === iBuildApp ===
-Contributors: Botanick
+Contributors: iBuildApp
 Tags: ibuildapp, mobile, app, plugin, native, iphone, ipod, ipad, ios, android, webapp, integration
 Requires at least: 3.0.0
 Tested up to: 3.8
@@ -57,13 +57,6 @@ iBuildApp is a great opportunity for any business or individual to get their mob
 = How much does it cost to create an app? =
 With iBuildApp, you can create as many apps as you want - absolutely **FREE**!
 
-= Are there any other fees? =
-If you need a help in creating or submitting your iPhone app to the app store, we'll be glad to help you for only $299. We'll help you create your Apple Developer Account and take care of the rest: Distribution Certificate, provisioning, and building of your apps. You'll also be able to preview apps on your own iPhone with test builds if you provide you Device ID.
-
-You may also request your binary uploading (**$50**): if you don't have a Mac computer and cannot use App Loader.
-
-[**Contact us**](http://ibuildapp.com/contact-us.php) directly if you need some extra features for your app - we'll provide a cost and time estimate to develop custom app.
-
 = Can I make money using my mobile app? =
 There are quite a few ways you can make money by creating app for iPhone using iBuildApp: sell your app on iTunes store, connecting to your e-Commerce store or in-app advertisement.
 
@@ -103,6 +96,7 @@ iBuildApp supports iPhone, iPad, and Android OS. That means that apps built on i
 You can set your app up in under an hour. Then, once you're satisfied with your app you can submit it to Apple store for approval. This process can take about 3-6 weeks (unfortunately it's up to Apple:). Once Apple approves your app, we'll let you know and you can release your app whenever you want.
 
 == Screenshots ==
+screenshot-1.png
 
 == Changelog ==
 = 0.1.0 =
