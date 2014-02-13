@@ -96,7 +96,7 @@ iBuildApp supports iPhone, iPad, and Android OS. That means that apps built on i
 You can set your app up in under an hour. Then, once you're satisfied with your app you can submit it to Apple store for approval. This process can take about 3-6 weeks (unfortunately it's up to Apple:). Once Apple approves your app, we'll let you know and you can release your app whenever you want.
 
 == Screenshots ==
-1. screenshot-1.png
+1. mobile app dashboard
 
 == Changelog ==
 = 0.1.0 =
