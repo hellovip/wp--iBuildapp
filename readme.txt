@@ -10,23 +10,44 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Create Android, iPhone and iPad App for free and no Coding Required. iBuildApp tool has been used to create over 400 000 apps
 
 == Description ==
-**iBuildApp**, the small startup in Mobile infrastructure space, makes it easy and affordable for any business to build and manage mobile apps.
 
-iBuildApp's customers have built over 400,000 mobile apps in the last 2 years. Our mobile content management platform provides a cost effective solution for businesses to build and optimize their mobile presence for all smartphone devices (*iPhone, Android, HTML5 and iPad*).
 
-We help companies to connect and engage customers to promote business, to keep customers updated and encourage their loyalty with rewards by enabling a number of key features including Mobile Commerce, Mobile Advertising Management, Social Networking Tools.
+**Build your mobile app in 5 min!**
 
-**iBuildApp** is the established **"do it yourself"** platform to make iPhone/Android apps, with **no coding required**. The self service web platform provides easy way for any organization to create their own mobile (iPhone, iPad, Android) applications and publishing materials.
+Convert your website into mobile app! Create an Android or iPhone app for your company, department, college or friends within minutes!
 
-Creating a mobile app with iBuildapp is **absolutely free**. You can have an app published within minutes. The Publication Tool allows individuals, businesses and corporations to create customize apps and manage their own iPhone/iPad Application via online application creation engine. The idea is to offer an easy way for traditional media publishers to port their content to Apple's devices via web based interface.
+You can benefit from using easy-to-understand and convenient tools when building, testing and updating your app. Your customers will benefit from simplicity and quick load time.
 
-Our customers can create their own Catalogs, Flyers, Brochures, Reports, Digests, etc and deliver it via our SaaS solution. Marketing and Social Media can create their social communities easily within minutes and communicate to the clients instantly.
+iBuildApp is a great opportunity for any business or individual to get their mobile presence and connect with clients and followers, wherever they are..
 
-Founded in 2010, IBuildApp is providing solutions to Fortune 2000 and small businesses, not-profit organizations and media artists.
+**Easy-to-use**
 
-iBuildApp is headquartered in Foster City, CA.
+Intuitive and user-friendly interface allows you to easily modify your app and manage it's content. You can customize background image, color, logo, buttons and bottom tabs;  change functional widgets -  all changes are immediately shown on our simulator.   
+
+
+**Features**
+
+Push notifications - keep your customers engaged with app updates, promotions and more
+
+* Social sharing - allow your customers browse, view and share photo, audio and video content via Facebook, Twitter, text message  or email 
+* Event listings - keep customers informed and list all of your businesses events
+* Coupons - create mobile coupons for your customers to unlock by "checking in" at your business
+* Custom Form - create appointment forms, order forms, feedback forms, any form you can think of OpenTable integration - restaurant reservation system
+* One-touch calling - give your customers one-touch calling inside your app. No numbers to save or remembereCommerce - shopping cart 
+* And more..
+
+
+**Monetize**
+
+There are quite a few ways you can make money by creating app for iPhone using iBuildApp: sell your app on iTunes store, connecting to your e-Commerce store or in-app advertisement.
+
+iAd and AdMob are the best ways to generate revenue from your native iPhone and Android apps. Hundreds of iOS developers are already making more than $50,000 per quarter serving iAd rich media ads.
+
+iAd rich media ads combine the emotion of television with the interactivity of the web to deliver a unique, compelling experience like no other on a mobile device. Users can dive into immersive ads without ever leaving your app. When they tap the ad, your app pauses and with a single tap they close the ad and resume exactly where they left off in your app.
+
 
 == Installation ==
+
 1. **Install** the plugin from WordPress Plugin Directory, or download source files and upload them into /wp-content/plugins/
 
 2. **Activate** the plugin through 'Plugins' menu in WordPress.
@@ -39,7 +60,9 @@ iBuildApp is headquartered in Foster City, CA.
 
 6. Now your can **manage app**!
 
+
 == Frequently Asked Questions ==
+
 = What is iBuildApp? =
 iBuildApp is an online service that provides a simple and inexpensive way to build, test, track and update a native iPhone/Android, web app or even iPad app that supports text, rss feeds, images, audio, and video, and much, much more.
 
@@ -95,9 +118,14 @@ iBuildApp supports iPhone, iPad, and Android OS. That means that apps built on i
 = How long does it take to set up and launch? =
 You can set your app up in under an hour. Then, once you're satisfied with your app you can submit it to Apple store for approval. This process can take about 3-6 weeks (unfortunately it's up to Apple:). Once Apple approves your app, we'll let you know and you can release your app whenever you want.
 
+
 == Screenshots ==
-1. Dashboard
-2. Manage panel
+1. Customize your mobile app, manage content and monetize
+2. Add sharing and commenting features
+3. Keep your customers engaged with app updates, promotions and more
+4. Allow your customers browse, view and share photo, audio and video
+5. Dashboard
+6. Manage panel
 
 == Changelog ==
 = 0.1.0 =
