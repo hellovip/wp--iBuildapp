@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create Android, iPhone and iPad App for free and no Coding Required. iBuildApp tool has been used to create over 400 000 apps
+Create Android, iPhone and iPad Apps for free, no Coding Required. The iBuildApp tool has been used to create over 600,000 apps 
 
 == Description ==
 
@@ -20,26 +20,26 @@ You can benefit from using easy-to-understand and convenient tools when building
 
 iBuildApp is a great opportunity for any business or individual to get their mobile presence and connect with clients and followers, wherever they are..
 
+
 **Easy-to-use**
 
-Intuitive and user-friendly interface allows you to easily modify your app and manage it's content. You can customize background image, color, logo, buttons and bottom tabs;  change functional widgets -  all changes are immediately shown on our simulator.   
+Intuitive and user-friendly interface allows you to easily modify your app and manage it's content. You can customize the background image, color, logo, buttons and bottom tabs; you can also change functional widgets - all changes are immediately shown on our simulator.
 
 
 **Features**
 
-Push notifications - keep your customers engaged with app updates, promotions and more
-
+* Push notifications - keep your customers engaged with app updates, promotions and more
 * Social sharing - allow your customers browse, view and share photo, audio and video content via Facebook, Twitter, text message  or email 
 * Event listings - keep customers informed and list all of your businesses events
 * Coupons - create mobile coupons for your customers to unlock by "checking in" at your business
 * Custom Form - create appointment forms, order forms, feedback forms, any form you can think of OpenTable integration - restaurant reservation system
 * One-touch calling - give your customers one-touch calling inside your app. No numbers to save or remembereCommerce - shopping cart 
-* And more..
+* And more...
 
 
 **Monetize**
 
-There are quite a few ways you can make money by creating app for iPhone using iBuildApp: sell your app on iTunes store, connecting to your e-Commerce store or in-app advertisement.
+There are quite a few ways you can make money by creating apps for iPhone or Android using iBuildApp: sell your app on iTunes, connecting it to your e-Commerce store or in-app advertisements.
 
 iAd and AdMob are the best ways to generate revenue from your native iPhone and Android apps. Hundreds of iOS developers are already making more than $50,000 per quarter serving iAd rich media ads.
 
@@ -123,7 +123,7 @@ You can set your app up in under an hour. Then, once you're satisfied with your 
 1. Customize your mobile app, manage content and monetize
 2. Add sharing and commenting features
 3. Keep your customers engaged with app updates, promotions and more
-4. Allow your customers browse, view and share photo, audio and video
+4. Allow your customers browse, view and share photos, audio and video
 5. Dashboard
 6. Manage panel
 
